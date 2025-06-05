@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.body {
+    width: 600px;
+    margin: auto;
+    background-color: rgb(241, 240, 238);
+    padding: 10px
+}
+
+h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
